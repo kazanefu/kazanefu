@@ -13,6 +13,10 @@
 ### Language Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazanefu&layout=compact)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazanefu&show_icons=true)
+
 <!--
 **kazanefu/kazanefu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
