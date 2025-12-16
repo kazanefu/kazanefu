@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,👋 I'm kazenfu
 
 ### Languages and Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
