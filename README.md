@@ -1,4 +1,4 @@
-## Hi there,👋 I'm kazenfu
+## Hi there,👋 I'm kazenfu(Sato Hayate)
 
 ### Languages and Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
