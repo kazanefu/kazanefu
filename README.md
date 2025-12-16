@@ -5,7 +5,6 @@
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![WapL](https://img.shields.io/badge/WapL-4B0082?logo=code&logoColor=white)
 ![Bevy](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=white)
