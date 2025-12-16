@@ -1,6 +1,6 @@
 ## Hi there,👋 I'm kazenfu(Sato Hayate)
 
-I design and implement my own programming language **WapL**.
+I design and implement my own programming language **WapL**.<br>
 I also develop games using Unity and Bevy.
 
 ### Languages and Tools
