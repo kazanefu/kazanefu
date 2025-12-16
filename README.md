@@ -1,5 +1,9 @@
 ## Hi there,👋 I'm kazenfu(Sato Hayate)
 
+I design and implement my own programming language **WapL**,  
+focusing on compilers, LLVM IR, and language semantics.  
+I also develop games using Unity and Bevy.
+
 ### Languages and Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![WapL](https://img.shields.io/badge/WapL-4B0082?logo=code&logoColor=white)
@@ -16,6 +20,8 @@
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazanefu&show_icons=true)
+
+
 
 <!--
 **kazanefu/kazanefu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
