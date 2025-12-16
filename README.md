@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Languages and Tools
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+
+### Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazanefu&layout=compact)
 <!--
 **kazanefu/kazanefu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
