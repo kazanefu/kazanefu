@@ -1,7 +1,8 @@
 ## Hi there,👋 I'm kazenfu(Sato Hayate)
 
-I design and implement my own programming language **WapL**.<br>
-I also develop games using Unity and Bevy.
+I develop games using Unity and Bevy.
+<br>
+I also design and implement my own programming language **WapL**.
 
 ### Languages and Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
